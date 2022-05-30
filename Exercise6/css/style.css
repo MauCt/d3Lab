@@ -1,3 +1,31 @@
+#chart-area svg {
+	margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.navbar {
+	background-color: #5693B8;
+	height: 6em;
+	border: none;
+}
+
+h1, h2 {
+	margin: 1em;
+	color: white;
+	font-family: sans-serif;
+	font-weight: 200;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+body {
+	background-color: #1B1A1A;
+}
+
 svg {
-	margin: 20px;
+	background-color: #1B1A1A !important;
+	margin: 2em;
 }
